@@ -4,8 +4,8 @@ export default function handler(req, res) {
   res.status(200).json({
     launched: false,
     name: "CurveX Lab",
-    ticker: "CURVEX",
-    chain: "launchlab",
+    ticker: "CURVEXLAB",
+    chain: "pump.fun",
     x_url: "https://x.com/curveXLab",
     site_url: "https://curvexlab.fun",
     launched_at: null,

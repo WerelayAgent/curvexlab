@@ -1,7 +1,7 @@
 {
   "name": "curvexlab",
   "version": "1.0.0",
-  "description": "CurveX Lab - Customizable Bonding Curves for Raydium LaunchLab",
+  "description": "CurveX Lab - Customizable Bonding Curves for pump.fun",
   "main": "index.html",
   "scripts": {
     "start": "serve .",
@@ -11,7 +11,7 @@
     "solana",
     "curvexlab",
     "raydium",
-    "launchlab",
+    "pump.fun",
     "bonding-curve"
   ],
   "author": "",
