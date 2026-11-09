@@ -3,6 +3,10 @@
   "outputDirectory": ".",
   "rewrites": [
     {
+      "source": "/api/config",
+      "destination": "/api/config.js"
+    },
+    {
       "source": "/api/(.*)",
       "destination": "https://www.curvd.fun/api/$1"
     },
