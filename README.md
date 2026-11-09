@@ -8,5 +8,7 @@ A decentralized launchpad on **pump.fun** where every coin gets its own customiz
 - **Built on pump.fun**: Native Solana execution, non-custodial wallet signatures.
 - **Real-time DEX Tracking**: Live curve multipliers, liquidity progress, and Raydium graduation routing.
 
-## Ticker
-- **$CURVEXLAB**
+## Ticker & Contract Address
+- **Ticker**: `$CURVEXLAB`
+- **CA**: `Ez5QEu77S67dkBm9qDvbGZASjqAgcpFjUeVVMPeLpump`
+
